@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1176" height="694" viewBox="22 -6 1176 694" font-family="Segoe Print, Bradley Hand, Chilanka, Comic Sans MS, cursive">
+<rect x="22" y="-6" width="1176" height="694" fill="#ffffff"/>
+<text x="230" y="44.8" font-size="24" fill="#1e1e1e" opacity="1.0">Neural BPR  -  learning taste from what someone likes, only</text>
+<path d="M 63.6 89.2 L 1156.3 89.1 Q 1170.1 89.7 1169.0 104.0 L 1169.0 325.9 Q 1169.1 339.1 1155.8 340.7 L 63.2 339.4 Q 50.3 341.0 50.2 325.8 L 51.0 103.0 Q 50.8 89.5 63.2 89.2 Z" fill="#ffc9c9" stroke="none" opacity="0.3"/>
+<path d="M 63.6 89.2 L 1156.3 89.1 Q 1170.1 89.7 1169.0 104.0 L 1169.0 325.9 Q 1169.1 339.1 1155.8 340.7 L 63.2 339.4 Q 50.3 341.0 50.2 325.8 L 51.0 103.0 Q 50.8 89.5 63.2 89.2 Z" fill="none" stroke="#ef4444" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+<path d="M 63.7 90.5 L 1155.5 90.1 Q 1170.2 89.8 1170.1 103.3 L 1169.3 325.5 Q 1170.3 339.9 1155.7 340.1 L 63.9 339.7 Q 50.5 340.3 49.6 326.1 L 50.0 104.6 Q 50.4 89.7 64.7 89.4 Z" fill="none" stroke="#ef4444" stroke-width="0.8" stroke-linecap="round" opacity="0.165"/>
+<text x="70" y="120.0" font-size="19" fill="#b91c1c" opacity="1.0">THE SIGNAL PROBLEM</text>
+<path d="M 83.8 145.6 L 375.2 145.0 Q 389.0 145.4 390.6 159.2 L 390.8 200.6 Q 390.4 215.2 376.2 214.9 L 84.7 216.0 Q 69.9 215.4 69.0 201.4 L 70.3 160.1 Q 70.7 144.5 83.7 145.4 Z" fill="#b2f2bb" stroke="none" opacity="1.0"/>
+<path d="M 83.8 145.6 L 375.2 145.0 Q 389.0 145.4 390.6 159.2 L 390.8 200.6 Q 390.4 215.2 376.2 214.9 L 84.7 216.0 Q 69.9 215.4 69.0 201.4 L 70.3 160.1 Q 70.7 144.5 83.7 145.4 Z" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 83.3 144.9 L 375.5 144.4 Q 389.3 145.4 389.4 158.6 L 389.8 201.6 Q 389.4 214.9 376.1 215.6 L 84.5 215.6 Q 69.7 214.9 69.8 201.6 L 70.7 158.5 Q 69.5 144.6 83.6 145.0 Z" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="230.0" y="175.5" font-size="15" fill="#1e1e1e" text-anchor="middle">songs the user named</text>
+<text x="230.0" y="193.8" font-size="15" fill="#1e1e1e" text-anchor="middle">observed, positive</text>
+<path d="M 434.2 144.5 L 724.9 144.8 Q 739.7 145.1 741.0 159.4 L 740.0 201.3 Q 740.4 214.0 726.9 215.6 L 434.8 215.7 Q 419.8 214.8 419.1 201.3 L 419.0 158.0 Q 419.4 144.3 433.6 144.0 Z" fill="#e9ecef" stroke="none" opacity="1.0"/>
+<path d="M 434.2 144.5 L 724.9 144.8 Q 739.7 145.1 741.0 159.4 L 740.0 201.3 Q 740.4 214.0 726.9 215.6 L 434.8 215.7 Q 419.8 214.8 419.1 201.3 L 419.0 158.0 Q 419.4 144.3 433.6 144.0 Z" fill="none" stroke="#757575" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 433.2 144.5 L 725.4 144.8 Q 739.3 145.6 740.2 158.5 L 739.6 200.8 Q 739.8 214.4 726.5 215.8 L 433.9 215.0 Q 419.4 214.4 419.8 200.6 L 420.5 158.5 Q 419.3 145.7 434.0 144.5 Z" fill="none" stroke="#757575" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="580.0" y="175.8" font-size="14" fill="#1e1e1e" text-anchor="middle">the other 170,652 tracks</text>
+<text x="580.0" y="192.9" font-size="14" fill="#1e1e1e" text-anchor="middle">UNOBSERVED, not disliked</text>
+<path d="M 784.1 144.0 L 1136.1 146.1 Q 1150.8 145.4 1149.5 158.7 L 1149.3 201.6 Q 1150.1 215.6 1135.6 214.4 L 784.7 216.1 Q 770.8 215.7 770.7 201.5 L 769.4 159.0 Q 769.7 144.0 783.0 144.5 Z" fill="#ffc9c9" stroke="none" opacity="1.0"/>
+<path d="M 784.1 144.0 L 1136.1 146.1 Q 1150.8 145.4 1149.5 158.7 L 1149.3 201.6 Q 1150.1 215.6 1135.6 214.4 L 784.7 216.1 Q 770.8 215.7 770.7 201.5 L 769.4 159.0 Q 769.7 144.0 783.0 144.5 Z" fill="none" stroke="#ef4444" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 783.6 145.3 L 1136.7 144.9 Q 1150.7 145.8 1150.7 158.8 L 1149.6 200.6 Q 1149.5 214.5 1136.2 215.6 L 784.5 215.0 Q 770.2 215.5 769.4 201.2 L 770.6 159.4 Q 770.4 145.0 783.5 145.4 Z" fill="none" stroke="#ef4444" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="960.0" y="175.5" font-size="15" fill="#1e1e1e" text-anchor="middle">a pointwise classifier would</text>
+<text x="960.0" y="193.8" font-size="15" fill="#1e1e1e" text-anchor="middle">call them all negatives</text>
+<text x="70" y="254.2" font-size="15" fill="#1e1e1e" opacity="1.0">BPR fixes this by supervising an ORDER instead of a score: for a sampled unobserved item j,</text>
+<text x="70" y="286.2" font-size="15" fill="#1e1e1e" opacity="1.0">maximise sigma(r_ui - r_uj). Only the difference is constrained, so nothing forces j to score low.</text>
+<path d="M 63.6 370.7 L 1157.0 369.8 Q 1169.8 371.0 1170.5 383.3 L 1169.2 645.2 Q 1170.9 660.7 1155.2 660.7 L 65.1 660.3 Q 49.7 660.1 49.2 644.9 L 51.0 384.3 Q 50.1 371.0 63.9 370.8 Z" fill="#dbe4ff" stroke="none" opacity="0.3"/>
+<path d="M 63.6 370.7 L 1157.0 369.8 Q 1169.8 371.0 1170.5 383.3 L 1169.2 645.2 Q 1170.9 660.7 1155.2 660.7 L 65.1 660.3 Q 49.7 660.1 49.2 644.9 L 51.0 384.3 Q 50.1 371.0 63.9 370.8 Z" fill="none" stroke="#4a9eed" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+<path d="M 64.5 369.6 L 1155.6 369.7 Q 1169.6 370.1 1169.6 383.9 L 1169.4 646.6 Q 1169.8 659.9 1156.1 660.6 L 63.9 660.6 Q 50.0 660.0 50.0 645.3 L 49.9 383.5 Q 49.2 370.5 63.5 370.0 Z" fill="none" stroke="#4a9eed" stroke-width="0.8" stroke-linecap="round" opacity="0.165"/>
+<text x="70" y="400.1" font-size="19" fill="#2563eb" opacity="1.0">THE MODEL</text>
+<path d="M 84.5 425.1 L 215.6 425.0 Q 230.1 425.6 229.1 439.1 L 229.4 472.5 Q 230.6 487.0 216.1 487.6 L 84.9 486.9 Q 70.2 487.0 70.0 473.4 L 69.9 439.1 Q 70.0 426.0 84.4 425.8 Z" fill="#a5d8ff" stroke="none" opacity="1.0"/>
+<path d="M 84.5 425.1 L 215.6 425.0 Q 230.1 425.6 229.1 439.1 L 229.4 472.5 Q 230.6 487.0 216.1 487.6 L 84.9 486.9 Q 70.2 487.0 70.0 473.4 L 69.9 439.1 Q 70.0 426.0 84.4 425.8 Z" fill="none" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.7 424.6 L 216.1 425.7 Q 230.5 424.4 229.4 438.9 L 229.3 472.6 Q 229.3 487.3 216.4 487.6 L 83.5 487.3 Q 70.2 486.5 70.6 473.7 L 69.6 439.7 Q 69.8 425.0 84.8 425.5 Z" fill="none" stroke="#4a9eed" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="150.0" y="451.5" font-size="15" fill="#1e1e1e" text-anchor="middle">user emb</text>
+<text x="150.0" y="469.8" font-size="15" fill="#1e1e1e" text-anchor="middle">20-d</text>
+<path d="M 83.3 499.8 L 216.0 499.6 Q 229.3 499.6 230.5 512.9 L 230.1 547.9 Q 228.9 561.6 216.3 562.0 L 83.0 563.1 Q 70.6 563.0 69.1 547.5 L 69.0 514.6 Q 69.5 499.2 83.8 500.9 Z" fill="#a5d8ff" stroke="none" opacity="1.0"/>
+<path d="M 83.3 499.8 L 216.0 499.6 Q 229.3 499.6 230.5 512.9 L 230.1 547.9 Q 228.9 561.6 216.3 562.0 L 83.0 563.1 Q 70.6 563.0 69.1 547.5 L 69.0 514.6 Q 69.5 499.2 83.8 500.9 Z" fill="none" stroke="#4a9eed" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 84.5 499.6 L 215.5 500.6 Q 230.1 500.3 229.4 513.3 L 230.3 547.9 Q 229.3 562.7 216.2 562.5 L 83.4 562.5 Q 69.3 562.6 69.9 547.8 L 70.1 514.7 Q 69.6 499.4 84.0 499.6 Z" fill="none" stroke="#4a9eed" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="150.0" y="526.5" font-size="15" fill="#1e1e1e" text-anchor="middle">item emb</text>
+<text x="150.0" y="544.8" font-size="15" fill="#1e1e1e" text-anchor="middle">20-d</text>
+<path d="M 231.5 455.5 L 277.4 479.6" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 278.0 480.0 L 269.9 469.8" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 278.0 480.0 L 265.0 479.2" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 231.7 530.7 L 278.4 506.7" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 278.0 507.0 L 265.0 507.8" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 278.0 507.0 L 269.9 517.2" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 294.0 459.3 L 415.7 458.9 Q 429.5 458.9 430.5 474.1 L 429.3 515.9 Q 431.0 529.1 416.7 529.9 L 294.0 530.7 Q 279.8 530.0 280.4 517.1 L 279.7 474.7 Q 280.5 460.3 293.8 459.7 Z" fill="#d0bfff" stroke="none" opacity="1.0"/>
+<path d="M 294.0 459.3 L 415.7 458.9 Q 429.5 458.9 430.5 474.1 L 429.3 515.9 Q 431.0 529.1 416.7 529.9 L 294.0 530.7 Q 279.8 530.0 280.4 517.1 L 279.7 474.7 Q 280.5 460.3 293.8 459.7 Z" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 293.3 459.4 L 415.3 460.4 Q 429.6 459.5 429.4 474.5 L 430.6 516.3 Q 429.7 529.6 415.7 529.9 L 293.5 529.9 Q 279.6 530.7 280.7 516.1 L 279.6 474.7 Q 279.7 459.8 293.2 459.8 Z" fill="none" stroke="#8b5cf6" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="355.0" y="490.5" font-size="15" fill="#1e1e1e" text-anchor="middle">concat</text>
+<text x="355.0" y="508.8" font-size="15" fill="#1e1e1e" text-anchor="middle">40-d</text>
+<path d="M 432.0 495.0 L 471.6 495.0" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 472.0 495.0 L 460.1 489.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 472.0 495.0 L 460.1 500.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 484.9 454.5 L 677.1 454.8 Q 691.0 453.9 691.6 468.4 L 692.2 521.1 Q 692.6 535.3 678.5 535.8 L 485.8 534.6 Q 473.1 534.2 472.5 521.3 L 471.0 469.7 Q 472.9 455.3 486.5 455.7 Z" fill="#d0bfff" stroke="none" opacity="1.0"/>
+<path d="M 484.9 454.5 L 677.1 454.8 Q 691.0 453.9 691.6 468.4 L 692.2 521.1 Q 692.6 535.3 678.5 535.8 L 485.8 534.6 Q 473.1 534.2 472.5 521.3 L 471.0 469.7 Q 472.9 455.3 486.5 455.7 Z" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 485.4 455.0 L 678.0 455.5 Q 692.5 455.5 692.1 469.6 L 692.3 521.3 Q 691.6 534.3 677.4 534.8 L 485.4 535.5 Q 472.1 535.2 472.2 521.3 L 472.0 468.2 Q 472.5 455.4 486.0 455.1 Z" fill="none" stroke="#8b5cf6" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="582.0" y="490.5" font-size="15" fill="#1e1e1e" text-anchor="middle">MLP 64 -&gt; 32 -&gt; 1</text>
+<text x="582.0" y="508.8" font-size="15" fill="#1e1e1e" text-anchor="middle">ReLU</text>
+<path d="M 694.2 494.4 L 734.3 494.7" fill="none" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 734.0 495.0 L 722.1 489.7" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 734.0 495.0 L 722.1 500.3" stroke="#1e1e1e" stroke-width="2" stroke-linecap="round" fill="none" opacity="1.0"/>
+<path d="M 747.1 464.5 L 870.5 464.4 Q 884.5 466.0 884.0 478.7 L 884.0 513.4 Q 884.6 527.3 870.3 526.1 L 747.2 526.5 Q 734.5 526.6 734.1 511.9 L 733.0 478.5 Q 734.4 465.4 748.4 464.5 Z" fill="#b2f2bb" stroke="none" opacity="1.0"/>
+<path d="M 747.1 464.5 L 870.5 464.4 Q 884.5 466.0 884.0 478.7 L 884.0 513.4 Q 884.6 527.3 870.3 526.1 L 747.2 526.5 Q 734.5 526.6 734.1 511.9 L 733.0 478.5 Q 734.4 465.4 748.4 464.5 Z" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 748.0 464.9 L 869.9 464.4 Q 884.6 464.5 884.7 479.7 L 883.3 512.9 Q 884.5 527.7 869.9 526.6 L 747.6 527.7 Q 733.6 527.1 733.4 513.0 L 734.7 478.4 Q 734.5 465.0 748.6 465.3 Z" fill="none" stroke="#22c55e" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="809.0" y="501.0" font-size="16" fill="#1e1e1e" text-anchor="middle">score</text>
+<text x="910" y="454.2" font-size="15" fill="#1e1e1e" opacity="1.0">An MLP over the concatenation</text>
+<text x="910" y="473.0" font-size="15" fill="#1e1e1e" opacity="1.0">can represent interactions a dot</text>
+<text x="910" y="491.8" font-size="15" fill="#1e1e1e" opacity="1.0">product cannot - at the cost of</text>
+<text x="910" y="510.5" font-size="15" fill="#1e1e1e" opacity="1.0">cheap full-catalogue scoring.</text>
+<path d="M 83.4 590.9 L 876.0 589.0 Q 888.9 590.0 889.9 603.6 L 889.2 615.7 Q 889.6 630.7 874.9 630.6 L 84.7 629.2 Q 70.9 630.5 70.9 615.5 L 69.7 603.8 Q 71.1 590.2 83.7 589.8 Z" fill="#fff3bf" stroke="none" opacity="1.0"/>
+<path d="M 83.4 590.9 L 876.0 589.0 Q 888.9 590.0 889.9 603.6 L 889.2 615.7 Q 889.6 630.7 874.9 630.6 L 84.7 629.2 Q 70.9 630.5 70.9 615.5 L 69.7 603.8 Q 71.1 590.2 83.7 589.8 Z" fill="none" stroke="#f59e0b" stroke-width="2" stroke-linecap="round" opacity="1.0"/>
+<path d="M 83.7 589.3 L 875.4 590.5 Q 889.7 590.7 889.6 603.6 L 890.0 615.5 Q 889.8 630.7 876.6 630.5 L 84.2 630.6 Q 70.7 630.1 70.3 615.3 L 70.4 603.9 Q 70.4 590.2 83.7 589.3 Z" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+<text x="480.0" y="614.6" font-size="15" fill="#1e1e1e" text-anchor="middle">L2 at 1e-4 on the embeddings in the triple and on every MLP parameter</text>
+</svg>
